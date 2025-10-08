@@ -12,7 +12,6 @@ keywords = [
     "iced",
     "gui",
     "data",
-    "parquet",
     "visualization",
     "plotting",
 ]
